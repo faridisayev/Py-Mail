@@ -1,0 +1,6 @@
+Hello World!
+
+This is a test mail sent by Farid Isayev.
+Please ignore this message.
+
+Thank you very much.
